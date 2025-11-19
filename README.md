@@ -1,6 +1,6 @@
 # Ann Amboka Amukasah ✨
 
-![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FvbWx2aDN6cHE4N2p1ZGJ1bDRpaXN3NXg3cXA2dmZpZW5pZWVtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fAnEC88LccN7a/giphy.gif)
+![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FvbWx2aDN6cHE4N2p1ZGJ1bDRpaXN3NXg3cXA2dmZpZW5pZWVtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fAn# Ann Amboka Amukasah ✨
 
 ## **Hello, I’m Ann — Product Marketing Strategist, Data Analytics Enthusiast & Digital Growth Builder**
 
@@ -22,8 +22,6 @@ I’m fascinated by how products scale, how users behave, and how data whispers 
 * SQL-based ETL and warehouse practice
 * Turn real-world business questions into measurable answers
 
-![Analytics](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTl1YjYzY3ZiZmh3bXU4ZHE5NGFjbWU2eWlnOWxrN2IydGZ2azN6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3xz2BLBOt13JwPbyl2/giphy.gif)
-
 ### **💎 Product & Marketing Strategy**
 
 * Launch and position products for SMEs & tech companies
@@ -41,15 +39,15 @@ I’m fascinated by how products scale, how users behave, and how data whispers 
 
 ### **Technical & Data**
 
-`Excel` · `SQL` · `Power Query` · `Power Pivot` · `DAX` · `BigQuery` · `Looker Studio`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/> SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/> Excel <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> BigQuery <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original.svg" width="40"/> Looker Studio
 
 ### **Marketing & Product**
 
-`HubSpot` · `Hootsuite` · `Buffer` · `Canva` · `Meta Ads Manager` · `Google Analytics` · `Trello`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original.svg" width="40"/> Google Analytics <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/> Canva <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/> Trello
 
 ### **Automation**
 
-`Zapier` · `Make.com` · `Airtable`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zapier/zapier-plain.svg" width="40"/> Zapier
 
 ---
 
@@ -58,7 +56,6 @@ I’m fascinated by how products scale, how users behave, and how data whispers 
 I love elegant data, ethical storytelling, and systems that run themselves. I’m building a future where tech, beauty, and strategy blend seamlessly — a life powered by curiosity, excellence, and a healthy dose of audacity.
 
 Here’s the vibe:
-![Soft aesthetic](https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80\&w=800\&auto=format\&fit=crop)
 
 ---
 
@@ -74,33 +71,8 @@ Here’s the vibe:
 ## 🌺 **Let’s Connect**
 
 **LinkedIn:** [Ann Amboka Amukasah](https://www.linkedin.com/in/ann-amboka-amukasah)
-**Email:** [amukasa
-
-![Footer gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNlbm1waGdjdWxuYzV0cHBxd3h6YXZvcjZlcHZsbzFrbWc1NjBmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Mbbs879ozZ9Yic0/giphy.gif)
-
----
-
-*“Strategy is a love letter to the future you want to build.”*
-
----
-
-## 📚 **Current Focus**
-
-* Mastering SQL & analytics engineering concepts
-* Building my portfolio of marketing + data fusion projects
-* Deepening my product marketing strategy skills
-* Creating automated systems for entrepreneurs & brands
-
----
-
-## 🌺 **Let’s Connect**
-
-**LinkedIn:** [www.linkedin.com/in/ann-amboka-amukasah](http://www.linkedin.com/in/ann-amboka-amukasah)
 **Email:** [amukasahann@gmail.com](mailto:amukasahann@gmail.com)
 
-![Footer gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNlbm1waGdjdWxuYzV0cHBxd3h6YXZvcjZlcHZsbzFrbWc1NjBmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26Ff6qQnYh51lWVoc/giphy.gif)
-
 ---
 
 *“Strategy is a love letter to the future you want to build.”*
-
