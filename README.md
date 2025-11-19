@@ -1,7 +1,5 @@
 # Ann Amboka Amukasah ✨
 
-![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FvbWx2aDN6cHE4N2p1ZGJ1bDRpaXN3NXg3cXA2dmZpZW5pZWVtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fAn# Ann Amboka Amukasah ✨
-
 ## **Hello, I’m Ann — Product Marketing Strategist, Data Analytics Enthusiast & Digital Growth Builder**
 
 I build **marketing systems**, craft **high‑impact product narratives**, and turn messy data into **clear, profitable decisions**. My world sits at the crossroads of **marketing, product, analytics, and automation** — a place where creativity meets logic and business meets storytelling.
@@ -70,9 +68,5 @@ Here’s the vibe:
 
 ## 🌺 **Let’s Connect**
 
-**LinkedIn:** [Ann Amboka Amukasah](https://www.linkedin.com/in/ann-amboka-amukasah)
-**Email:** [amukasahann@gmail.com](mailto:amukasahann@gmail.com)
+**LinkedIn: [Ann Amboka Amukasah](https://www.linkedin.com/in/ann-amboka-amukasah)
 
----
-
-*“Strategy is a love letter to the future you want to build.”*
