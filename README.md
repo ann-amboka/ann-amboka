@@ -2,7 +2,7 @@
 
 ## **Hello, I’m Ann — Product Marketing Strategist, Data Analytics Enthusiast & Digital Growth Builder**
 
-I build **marketing systems**, craft **high‑impact product narratives**, and turn messy data into **clear, profitable decisions**. My world sits at the crossroads of **marketing, product, analytics, and automation** — a place where creativity meets logic and business meets storytelling.
+I build **marketing systems**, craft **high‑impact product narratives**, and turn messy data into **clear, profitable decisions**. My world sits at the crossroads of **marketing, product, analytics, and Customer Insights** — a place where creativity meets logic and business meets storytelling.
 
 I’m currently transitioning deeper into **tech and data**, blending my 6+ years of experience in:
 **Product Marketing • Digital Marketing • CRM • Data Analysis (Excel, SQL) • Strategic Partnerships • Customer Experience • Market Research**
@@ -15,7 +15,7 @@ I’m fascinated by how products scale, how users behave, and how data whispers 
 
 ### **📊 Data & Analytics**
 
-* Build analytics dashboards (Excel, Power Query, DAX)
+* Build analytics dashboards (Excel, Power Query)
 * Clean and model data for insights
 * SQL-based ETL and warehouse practice
 * Turn real-world business questions into measurable answers
