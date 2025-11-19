@@ -1,4 +1,4 @@
-# Ann Amboka Amukasah ✨
+# Ann Amboka (Anna) ✨
 
 ## **Hello, I’m Ann — Product Marketing Strategist, Data Analytics Enthusiast & Digital Growth Builder**
 
