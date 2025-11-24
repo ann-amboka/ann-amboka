@@ -1,72 +1,31 @@
-# Ann Amboka (Anna) ✨
+# 💫 About Me:
+Hello, I’m Ann, Product Marketing Strategist, Data Analytics Enthusiast & Digital Growth Builder<br>I build marketing systems, craft high‑impact product narratives, and turn messy data into clear, profitable decisions. My world sits at the crossroads of marketing, product, analytics, and Customer Insights: a place where creativity meets logic and business meets storytelling.<br><br>I’m currently transitioning deeper into tech and data, blending my 6+ years of experience in: Product Marketing • Digital Marketing • CRM • Data Analysis (Excel, SQL) • Strategic Partnerships • Customer Experience • Market Research<br><br>I’m fascinated by how products scale, how users behave, and how data whispers the truth beneath the noise.<br><br>🌸 What I Do<br>📊 Data & Analytics<br>Build analytics dashboards (Excel, Power Query)<br>Clean and model data for insights<br>SQL-based ETL and warehouse practice<br>Turn real-world business questions into measurable answers<br>💎 Product & Marketing Strategy<br>Launch and position products for SMEs & tech companies<br>Craft messaging that converts<br>Run experiments, market research, and growth initiatives<br>🤝 Partnerships & Customer Success<br>Build long-term relationships with high‑value customers<br>Understand user needs and translate them into product opportunities<br>⚒️ Tools I Work With<br>Technical & Data<br> SQL  Excel  BigQuery  Looker Studio<br><br>Marketing & Product<br> Google Analytics  Canva  Trello<br><br>🌷 A Bit About Me<br>I love elegant data, ethical storytelling, and systems that run themselves. I’m building a future where tech, beauty, and strategy blend seamlessly, a life powered by curiosity, excellence, and a healthy dose of audacity.<br><br>Here’s the vibe:<br><br>📚 Current Focus<br>Mastering SQL & analytics engineering concepts<br>Building my portfolio of marketing + data fusion projects<br>Deepening my product marketing strategy skills<br>Creating automated systems for entrepreneurs & brands<br>🌺 Let’s Connect<br>**LinkedIn: Ann Amboka Amukasah
 
-## **Hello, I’m Ann — Product Marketing Strategist, Data Analytics Enthusiast & Digital Growth Builder**
 
-I build **marketing systems**, craft **high‑impact product narratives**, and turn messy data into **clear, profitable decisions**. My world sits at the crossroads of **marketing, product, analytics, and Customer Insights** — a place where creativity meets logic and business meets storytelling.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ann-amboka-amukasah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amukasahann@gmail.com) 
 
-I’m currently transitioning deeper into **tech and data**, blending my 6+ years of experience in:
-**Product Marketing • Digital Marketing • CRM • Data Analysis (Excel, SQL) • Strategic Partnerships • Customer Experience • Market Research**
+# 💻 Tech Stack:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ann-amboka&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ann-amboka&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ann-amboka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-I’m fascinated by how products scale, how users behave, and how data whispers the truth beneath the noise.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ann-amboka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌸 **What I Do**
-
-### **📊 Data & Analytics**
-
-* Build analytics dashboards (Excel, Power Query)
-* Clean and model data for insights
-* SQL-based ETL and warehouse practice
-* Turn real-world business questions into measurable answers
-
-### **💎 Product & Marketing Strategy**
-
-* Launch and position products for SMEs & tech companies
-* Craft messaging that converts
-* Run experiments, market research, and growth initiatives
-
-### **🤝 Partnerships & Customer Success**
-
-* Build long-term relationships with high‑value customers
-* Understand user needs and translate them into product opportunities
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ann-amboka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ann-amboka&icon=8&color=12)](https://visitcount.itsvg.in)
 
-## ⚒️ **Tools I Work With**
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Ann amukasah) 
 
-### **Technical & Data**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/> SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/> Excel <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> BigQuery <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original.svg" width="40"/> Looker Studio
-
-### **Marketing & Product**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original.svg" width="40"/> Google Analytics <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/> Canva <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/> Trello
-
-### **Automation**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zapier/zapier-plain.svg" width="40"/> Zapier
-
----
-
-## 🌷 **A Bit About Me**
-
-I love elegant data, ethical storytelling, and systems that run themselves. I’m building a future where tech, beauty, and strategy blend seamlessly — a life powered by curiosity, excellence, and a healthy dose of audacity.
-
-Here’s the vibe:
-
----
-
-## 📚 **Current Focus**
-
-* Mastering SQL & analytics engineering concepts
-* Building my portfolio of marketing + data fusion projects
-* Deepening my product marketing strategy skills
-* Creating automated systems for entrepreneurs & brands
-
----
-
-## 🌺 **Let’s Connect**
-
-**LinkedIn: [Ann Amboka Amukasah](https://www.linkedin.com/in/ann-amboka-amukasah)
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
