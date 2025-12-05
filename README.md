@@ -7,10 +7,6 @@ Hello, I’m Ann, Product Marketing Strategist, Data Analytics Enthusiast & Digi
 
 # 💻 Tech Stack:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ann-amboka&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ann-amboka&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ann-amboka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### ✍️ Random Dev Quote
