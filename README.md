@@ -63,15 +63,6 @@ Here’s the vibe:
 
 ---
 
-## 🌺 **Let’s Connect**
-
-**LinkedIn:** [Ann Amboka Amukasah](https://www.linkedin.com/in/ann-amboka-amukasah)
-**Email:** [amukasahann@gmail.com](mailto:amukasahann@gmail.com)
-
-
-<br>🌺 Let’s Connect<br>**LinkedIn: Ann Amboka Amukasah
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ann-amboka-amukasah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amukasahann@gmail.com) 
 
