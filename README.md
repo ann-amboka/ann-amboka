@@ -1,13 +1,8 @@
 # Ann Amboka Amukasah ✨
 
-## **Hello, I’m Ann — Product,Marketing Strategist & Data Analytics Enthusiast (Customer‑Centric, Insight‑Driven)**
+## **Hello, I’m Ann!**
 
-I design insight-driven strategies, craft **high‑impact product narratives**, and turn messy data into **clear, profitable decisions**. My world sits at the crossroads of **marketing, product, analytics, and automation** — where customer psychology, strategy, and storytelling intersect.
-
-I’m currently transitioning deeper into **tech and data**, blending my 6+ years of experience in:
-**Product Marketing • Digital Marketing • CRM • Data Analysis (Excel, SQL) • Strategic Partnerships • Customer Experience • Market Research**
-
-I’m fascinated by how products scale, how users behave, and how data whispers the truth beneath the noise.
+I am a Product, Marketing & Growth professional with 6+ years of experience driving product adoption, revenue growth, and strategic partnerships. I blend data-driven decision-making with structured execution to build scalable marketing systems and measurable business impact.
 
 ---
 
@@ -15,7 +10,7 @@ I’m fascinated by how products scale, how users behave, and how data whispers 
 
 ### **📊 Data & Analytics**
 
-* Build analytics dashboards (Excel, Power Query, DAX)
+* Build analytics dashboards (Excel, Power Query, PowerBi)
 * Clean and model data for insights
 * SQL-based ETL and warehouse practice
 * Turn real-world business questions into measurable answers
@@ -38,11 +33,25 @@ I’m fascinated by how products scale, how users behave, and how data whispers 
 
 ### **Technical & Data**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/> SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/> Excel <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> BigQuery <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original.svg" width="40"/> Looker Studio
+## Tools & Technologies
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/> Microsoft SQL Server  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/> Excel  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/> Power BI  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/> Jira  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40"/> Notion  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> BigQuery  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original.svg" width="40"/> Looker Studio  
 
 ### **Marketing & Product**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original.svg" width="40"/> Google Analytics <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/> Canva <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/> Notion
+## Marketing Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original.svg" width="40"/> Google Analytics  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/> Canva  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/> Trello  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/asaas/asaas-original.svg" width="40"/> Asana  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hubspot/hubspot-original.svg" width="40"/> HubSpot  
 
 ---
 
@@ -56,10 +65,13 @@ Here’s the vibe:
 
 ## 📚 **Current Focus**
 
-* Mastering SQL & analytics engineering concepts
-* Building my portfolio of marketing + data fusion projects
-* Deepening my product marketing strategy skills
-* Designing customer-led product and marketing strategies
+Advancing my analytics capabilities through deeper SQL and Power BI projects
+
+Building end-to-end marketing performance dashboards
+
+Strengthening growth experimentation frameworks
+
+Transitioning into tech-driven roles at the intersection of product, growth, and data
 
 ---
 
@@ -67,7 +79,14 @@ Here’s the vibe:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ann-amboka-amukasah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amukasahann@gmail.com) 
 
 # 💻 Tech Stack:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GoogleAnalytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
 
 ### ✍️ Random Dev Quote
