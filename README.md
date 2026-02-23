@@ -2,7 +2,7 @@
 
 ## **Hello, I’m Ann!**
 
-I am a Product, Marketing & Growth professional with 6+ years of experience driving product adoption, revenue growth, and strategic partnerships. I blend data-driven decision-making with structured execution to build scalable marketing systems and measurable business impact.
+I am a Product, Marketing & Growth professional with 7+ years of experience driving product adoption, revenue growth, and strategic partnerships. I blend data-driven decision-making with structured execution to build scalable marketing systems and measurable business impact.
 
 ---
 
