@@ -1,5 +1,5 @@
 
-# Ann Amboka Amukasah
+# Ann Amboka (Anna)
 
 **Product | Marketing | Data**
 
